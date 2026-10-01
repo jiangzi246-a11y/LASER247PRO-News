@@ -1,0 +1,6 @@
+{
+  "name": "Laser247 Pro News & Sports Blog",
+  "description": "Comprehensive sports betting news, cricket & football match analysis, live casino guides, and Aviator crash strategy blog for Laser247 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
